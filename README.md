@@ -2,11 +2,6 @@
 <h1 align="center"> Reverse Polish Notation Calculator </h1>
 
 
-
-
-By: Yousef Ali (22002656), Bassam Ali (21047697)
----------------------
-
 We have implemented a RPN calculator by using our raspberry pi 0 to manipulate our matrix keypad and oled screen. We have also built a library for the oled screen. In RPN, operators are written after their operands, rather than between them like in the more familiar algebraic notation.
 
 For instance, the expression "3 + 4"  would be written as "3 4 + " in RPN notation. This means "take the number 3, then the number 4, then add them together."
@@ -20,7 +15,7 @@ For instance, the expression "3 + 4"  would be written as "3 4 + " in RPN notati
 2. Now you can run the main file using <mark>python main.py</mark>
 
 
-# Software (Task 1)
+# Software 
 
 The software for the RPN calculator is written in Python and is split into several files:
 
@@ -80,7 +75,7 @@ We developed several tests to examine if the infix expression converter works an
 
 
 
-# Hardware components (Task 2)
+# Hardware components 
 
 Components Used: 
 
